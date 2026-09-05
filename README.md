@@ -9,3 +9,5 @@ AI 智能技能集（Skill）版本管理仓库。
 
 ## 使用
 各 skill 目录内包含 SKILL.md（方法论+使用说明+纪律）与 CHANGELOG.md（版本记录）。详情见对应目录。
+
+> 🧭 **使用手册**：[smart-screen-nav-使用手册.md](smart-screen-nav/使用手册.md)（新手图文步骤）
